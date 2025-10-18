@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+👋 Hi, I’m **Berkan Özçelik**
 
-## Getting Started
+🎯 I’m a passionate full-stack developer with a strong foundation in both **web development** and **data science**. My expertise spans the **JavaScript ecosystem** (React, Next.js, Node.js) and **backend development** using **Spring Boot**, with a growing focus on **cloud-native applications**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 👀 Interests
+- Full-stack web development (MERN, Spring Boot)
+- Backend architecture & API design
+- Cloud platforms , Docker & Kubernetes
+- Data-driven applications, analytics dashboards
+- Clean code, SOLID principles, and scalable system design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 💻 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Frontend**  
+`React` · `Next.js` · `Tailwind CSS` · `Bootstrap`  · `Socket.io`
 
-## Learn More
+**Backend**  
+`Node.js` · `Express.js` · `Spring Boot` · `RESTful APIs` · `JWT Auth` · `WebSocket`
 
-To learn more about Next.js, take a look at the following resources:
+**Databases**  
+`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**DevOps & Tools**  
+`Docker` · `Git & GitHub` · `Postman` · `VS Code` · `Railway` · `Vercel` · `Render`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Data Science & Analytics**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Power BI`
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🌱 Currently Learning
+- Building scalable microservices with **Spring Boot & Docker**
+- Orchestrating deployments using **Kubernetes**
+- Implementing **CI/CD pipelines**
+- Working with **Cloud platforms** like AWS & Google Cloud
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 💼 Looking to Collaborate On
+- Full-stack applications with modern technologies  
+- Real-time applications (chat, dashboard, etc.)  
+- Projects with clean architecture & domain-driven design  
+- Open-source contributions in backend & DevOps
+
+---
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/)
+- [Portfolio Website](https://next-js-portfolio-one-xi.vercel.app/)
+- [GitHub](https://github.com/BerkanJs)
+
+---
+
+⚡ **Fun fact**: I love building side projects from scratch, refactoring legacy code, and exploring new frameworks. I'm always open to a great tech conversation or a challenging collaboration!
+
+🚀 **Let’s connect and build something awesome!**
