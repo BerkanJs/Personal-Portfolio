@@ -9,7 +9,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
 import NavLink from "./NavLink";
 import { motion } from "framer-motion";
-import { FadeLeft, FadeUp } from "../app/animations/Animations";
+import { FadeLeft, FadeUp } from "../app/animations/animations";
 
 const Links = [
   { url: "/", title: "Home" },
